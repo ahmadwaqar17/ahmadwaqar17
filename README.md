@@ -4,7 +4,6 @@
 📍 Lahore, Pakistan  
 
 📧 **Email:** ahmedwaqar2002@gmail.com  
-📞 **Phone:** +92-344-0479545  
 🌐 **Portfolio:** https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/
 
 ---
