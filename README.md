@@ -1,100 +1,68 @@
-# 👋 Hi, I'm Ahmad Waqar  
+# Hi, I'm Ahmad Waqar 👋
 
-🚀 **Associate Software Engineer | Backend & AI Developer**  
-📍 Lahore, Pakistan  
-
-📧 **Email:** ahmedwaqar2002@gmail.com  
-🌐 **Portfolio:** https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/
+**Associate Software Engineer — Backend & AI**
+📍 Lahore, Pakistan · 📧 ahmedwaqar2002@gmail.com · 🌐 [Portfolio](https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/)
 
 ---
 
-## 🧑‍💻 About Me
-I’m a passionate **Software Engineer** with experience in **backend development, AI-powered systems, and scalable web applications**. I enjoy building reliable, efficient solutions using modern technologies like **Django, AI/LLMs, and cloud infrastructure**.
+## About Me
 
+I'm a software engineer focused on **backend systems and AI-powered applications**. I work with Python, Django, and LangChain to build things that are reliable, scalable, and actually useful — from multi-tenant SaaS platforms to LLM pipelines that process documents and return structured data.
 
----
-
-## 🎓 Education
-**FAST National University of Computer and Emerging Sciences (NUCES), Lahore**  
-**Bachelor of Science in Computer Science**
+I'm especially interested in the intersection of backend architecture and applied AI: RAG systems, AI agents with tool-calling, and deploying LLMs in production environments.
 
 ---
 
-## 💼 Work Experience
+## Experience
 
-### **Stack360** — *Associate Software Engineer*  
-📍 Lahore, Pakistan | 🗓️ April 2025 – Present  
-- Building and enhancing web applications using **Python and Django**  
-- Collaborating with cross-functional teams to deliver reliable solutions  
-- Working with AI integrations, background processing, and secure systems  
+**Stack360** — Associate Software Engineer *(April 2025 – Present)*
+Building web applications and LLM-based solutions using Python, Django, and LangChain. Work includes document classification pipelines, data extraction agents, and structured JSON output systems.
 
 ---
 
-### **Edge Node** — *.NET Backend Intern*  
-📍 Lahore, Pakistan | 🗓️ August 2024 – September 2024  
-- Developed backend services using **ASP.NET Core**  
-- Built and maintained APIs and database integrations  
-- Focused on clean, readable, and maintainable code  
+## Projects
+
+### Altertia Compliance *(Stack360)*
+`Python` `Django` `PostgreSQL` `Celery` `Redis` `LangChain` `Ollama` `Django Tenants`
+
+Multi-tenant compliance automation platform for enterprise regulatory workflows. Supports Mexican compliance documents (CFDI invoices, IMSS reports, SUA files) with automated validation and organized storage pipelines. LangChain agents handle classification and structured data extraction; Celery + Redis manage large document batches asynchronously.
 
 ---
 
-## 🚀 Projects
+### E-Wakeel — LegalTech Platform
+`Python` `Django` `React.js` `PostgreSQL` `WebSockets` `Gemini LLM`
 
-### **Altertia Compliance** *(Stack360)*  
-**Tech Stack:** Python, Django, PostgreSQL, Celery, Redis, OpenAI API, Ollama, Django Tenants  
-
-- Built a **multi-tenant compliance automation platform** for enterprises  
-- Implemented secure processing of Mexican compliance documents (CFDI, IMSS, SUA)  
-- Integrated AI models for document parsing, classification, and validation  
-- Used **Celery & Redis** for scalable background processing  
-- Improved performance, security, and audit-ready workflows  
+Legal collaboration platform for clients, advocates, and admins. Features role-based dashboards, secure document sharing, real-time messaging via WebSockets, and a Gemini-powered chatbot for legal query assistance.
 
 ---
 
-### **E-Wakeel (LegalTech Platform)**  
-**Tech Stack:** Python, Django, React.js, PostgreSQL, WebSockets, Gemini LLM  
+### MoneyTalks (WealthWise)
+`Python` `Django Tenants` `LangChain` `LangGraph` `Qdrant` `RAG`
 
-- Developed a legal collaboration platform for clients and advocates  
-- Implemented role-based dashboards and secure document sharing  
-- Built real-time communication using WebSockets  
-- Integrated **Gemini LLM** for AI-powered legal assistance  
+Multi-tenant SaaS platform with DB-powered RAG — natural language queries over PostgreSQL via LangChain agents with tool-calling. Includes RBAC for complex user hierarchies, a modular lesson engine, progress tracking, and student portfolio features.
 
 ---
 
-### **MediBot (AI Healthcare Assistant)**  
-**Tech Stack:** Python, Django, React.js, WebSockets, LLaMA-4 Maverick  
+## Technical Skills
 
-- Designed an AI-based medical consultation system  
-- Integrated LLaMA-4 Maverick for medical response generation  
-- Enabled real-time AI interaction using WebSockets  
-- Focused on accessibility, performance, and security  
+**Languages:** Python, JavaScript, C, C++, C#
 
----
+**Frameworks & Libraries:** Django, LangChain, LangGraph, pandas, .NET Core
 
-## 🛠️ Technical Skills
+**AI & ML:** RAG, AI Agents & Tool-Calling, LLM Orchestration, Structured Outputs, Text Embeddings & Semantic Search, Vector Databases (Qdrant), Human-in-the-Loop Workflows, LLM Guardrails, Streaming & Batching
 
-### **Programming Languages**
-- C, C++, C#, Python, JavaScript  
+**Databases:** PostgreSQL, MySQL, SQL, Qdrant
 
-### **Frameworks & Libraries**
-- Django, .NET Core, React.js, pandas, WebSockets, SignalR  
-
-### **Databases**
-- PostgreSQL, MySQL, SQL  
-
-### **AI & ML Tools**
-- OpenAI API, Gemini, LLM Chatbots  
-
-### **DevOps & Tools**
-- Git, Docker, Celery, Redis, Postman  
-- AWS (S3, RDS, EC2, ECR)  
-- VS Code, PyCharm, Visual Studio, Google Colab  
+**DevOps & Tools:** Docker, Git, Celery, Redis, AWS (S3, RDS, EC2, ECR), CI/CD (GitHub Actions), Postman
 
 ---
 
-## 📫 Connect With Me
-- 🌐 Portfolio: https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/  
-- 📧 Email: ahmedwaqar2002@gmail.com  
+## Education
 
+**FAST NUCES, Lahore** — B.S. Computer Science
 
+---
 
+## Connect
+
+📧 ahmedwaqar2002@gmail.com · 🌐 [Portfolio](https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/)
