@@ -2,10 +2,10 @@
 <h3 align="center">Associate Software Engineer · Python · Django · AI/LLM Systems</h3>
 
 <p align="center">
+  <a href="https://github.com/ahmadwaqar17"><img src="https://img.shields.io/badge/GitHub-ahmadwaqar17-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:ahmedwaqar2002@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedwaqar2002%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=About.me&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue" alt="profile views" />
+  <a href="https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=About.me&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ahmadwaqar17&style=flat&color=blue" alt="profile views" />
 </p>
 
 ---
@@ -105,12 +105,12 @@ I'm a backend engineer from **Lahore, Pakistan** who builds production-ready web
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadwaqar17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwaqar17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ahmadwaqar17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
