@@ -1,68 +1,118 @@
-# Hi, I'm Ahmad Waqar 👋
+<h1 align="center">Hi 👋, I'm Ahmad Waqar</h1>
+<h3 align="center">Associate Software Engineer · Python · Django · AI/LLM Systems</h3>
 
-**Associate Software Engineer — Backend & AI**
-📍 Lahore, Pakistan · 📧 ahmedwaqar2002@gmail.com · 🌐 [Portfolio](https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/)
-
----
-
-## About Me
-
-I'm a software engineer focused on **backend systems and AI-powered applications**. I work with Python, Django, and LangChain to build things that are reliable, scalable, and actually useful — from multi-tenant SaaS platforms to LLM pipelines that process documents and return structured data.
-
-I'm especially interested in the intersection of backend architecture and applied AI: RAG systems, AI agents with tool-calling, and deploying LLMs in production environments.
+<p align="center">
+  <a href="mailto:ahmedwaqar2002@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedwaqar2002%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=About.me&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue" alt="profile views" />
+</p>
 
 ---
 
-## Experience
+## 🧑‍💻 About Me
 
-**Stack360** — Associate Software Engineer *(April 2025 – Present)*
-Building web applications and LLM-based solutions using Python, Django, and LangChain. Work includes document classification pipelines, data extraction agents, and structured JSON output systems.
+I'm a backend engineer from **Lahore, Pakistan** who builds production-ready web platforms with **Python and Django**, and brings them to life with **LLM-powered features** — agents, RAG pipelines, and structured-output systems.
+
+- 🔭 Currently working at **Folium AI**, building backend systems for AI-driven learning features
+- 🏢 Previously at **Stack360**, shipping LLM solutions for document classification and data extraction
+- 🎓 CS graduate of **FAST NUCES, Lahore**
+- 🧠 Interested in AI agents, tool-calling, RAG, multi-tenant SaaS, and scalable async architectures
+- 📫 Reach me at **ahmedwaqar2002@gmail.com**
 
 ---
 
-## Projects
+## 💼 Experience
 
-### Altertia Compliance *(Stack360)*
+| Role | Company | Duration |
+|------|---------|----------|
+| Associate Software Engineer (Python, Django, AI) | **Folium AI** | Feb 2026 – Present |
+| Associate Software Engineer (Python, Django, AI) | **Stack360** | Jan 2025 – Feb 2026 |
+
+---
+
+## 🚀 Featured Projects
+
+### 📑 Altertia Compliance
+**Multi-tenant compliance automation platform for enterprises**
 `Python` `Django` `PostgreSQL` `Celery` `Redis` `LangChain` `Ollama` `Django Tenants`
 
-Multi-tenant compliance automation platform for enterprise regulatory workflows. Supports Mexican compliance documents (CFDI invoices, IMSS reports, SUA files) with automated validation and organized storage pipelines. LangChain agents handle classification and structured data extraction; Celery + Redis manage large document batches asynchronously.
+- LangChain agents that classify compliance documents (CFDI, IMSS, SAT, Infonavit), extract key fields, and return structured JSON
+- Secure uploads, automated validation, and organized storage for Mexican compliance workflows (CFDI invoices, IMSS reports, SUA files)
+- Asynchronous processing of large document batches with Celery + Redis
+- Auditable storage and retrieval for transparent compliance reporting
 
----
-
-### E-Wakeel — LegalTech Platform
-`Python` `Django` `React.js` `PostgreSQL` `WebSockets` `Gemini LLM`
-
-Legal collaboration platform for clients, advocates, and admins. Features role-based dashboards, secure document sharing, real-time messaging via WebSockets, and a Gemini-powered chatbot for legal query assistance.
-
----
-
-### MoneyTalks (WealthWise)
+### 💰 MoneyTalks (WealthWise)
+**Scalable multi-tenant SaaS learning platform**
 `Python` `Django Tenants` `LangChain` `LangGraph` `Qdrant` `RAG`
 
-Multi-tenant SaaS platform with DB-powered RAG — natural language queries over PostgreSQL via LangChain agents with tool-calling. Includes RBAC for complex user hierarchies, a modular lesson engine, progress tracking, and student portfolio features.
+- Architected strict data isolation across organizational hierarchies with Django Tenants
+- DB-powered RAG: LangChain agents with tool-calling that query PostgreSQL in natural language
+- RBAC for students, teachers, and admin staff
+- Modular lesson engine with progress tracking, reporting dashboards, and student portfolios
+
+### ⚖️ E-Wakeel
+**LegalTech platform connecting clients, advocates, and administrators**
+`Python` `Django` `React.js` `PostgreSQL` `WebSockets` `Gemini`
+
+- Real-time advocate–client messaging over WebSockets
+- Gemini-powered chatbot for legal queries
+- Role-based dashboards, secure document sharing, and automated court hearing alerts
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, C, C++, C#
+**Languages**
 
-**Frameworks & Libraries:** Django, LangChain, LangGraph, pandas, .NET Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**AI & ML:** RAG, AI Agents & Tool-Calling, LLM Orchestration, Structured Outputs, Text Embeddings & Semantic Search, Vector Databases (Qdrant), Human-in-the-Loop Workflows, LLM Guardrails, Streaming & Batching
+**Frameworks & Libraries**
 
-**Databases:** PostgreSQL, MySQL, SQL, Qdrant
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**DevOps & Tools:** Docker, Git, Celery, Redis, AWS (S3, RDS, EC2, ECR), CI/CD (GitHub Actions), Postman
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI & LLM Engineering**
+
+`RAG` · `AI Agents & Tool-Calling` · `LLM Orchestration` · `Human-in-the-Loop Workflows` · `Structured Outputs & Schema Enforcement` · `LLM Guardrails & Safety` · `Embeddings & Semantic Search` · `Vector Databases` · `LLM Streaming & Batching`
 
 ---
 
-## Education
+## 📊 GitHub Stats
 
-**FAST NUCES, Lahore** — B.S. Computer Science
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Connect
-
-📧 ahmedwaqar2002@gmail.com · 🌐 [Portfolio](https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/)
+<p align="center"><i>⭐ Always happy to talk about backend systems, LLM agents, and RAG — feel free to reach out!</i></p>
