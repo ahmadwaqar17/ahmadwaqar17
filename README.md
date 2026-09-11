@@ -105,12 +105,12 @@ I'm a backend engineer from **Lahore, Pakistan** who builds production-ready web
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadwaqar17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwaqar17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmadwaqar17&theme=tokyonight&hide_border=true" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 ---
