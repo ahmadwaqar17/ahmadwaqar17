@@ -1,111 +1,184 @@
-<h1 align="center">Hi 👋, I'm Ahmad Waqar</h1>
-<h3 align="center">Associate Software Engineer · Python · Django · AI/LLM Systems</h3>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmad%20Waqar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI%2FLLM%20Systems&descSize=18&descAlignY=58" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/ahmadwaqar17"><img src="https://img.shields.io/badge/GitHub-ahmadwaqar17-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:ahmedwaqar2002@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedwaqar2002%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=About.me&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ahmadwaqar17&style=flat&color=blue" alt="profile views" />
+  <a href="https://github.com/ahmadwaqar17">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Ahmad+Waqar;Backend+Engineer+%C2%B7+Python+%26+Django;Building+LLM+Agents+%26+RAG+Pipelines;Multi-tenant+SaaS+%C2%B7+Async+Architectures;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmadwaqar17"><img src="https://img.shields.io/badge/GitHub-ahmadwaqar17-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ahmedwaqar2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadwaqar17&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-I'm a backend engineer from **Lahore, Pakistan** who builds production-ready web platforms with **Python and Django**, and brings them to life with **LLM-powered features** — agents, RAG pipelines, and structured-output systems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🔭 Currently working at **Folium AI**, building backend systems for AI-driven learning features
-- 🏢 Previously at **Stack360**, shipping LLM solutions for document classification and data extraction
+I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-ready web platforms with **Python and Django**, and brings them to life with **LLM-powered features** — agents, RAG pipelines, and structured-output systems.
+
+- 🔭 Currently at **Folium AI**, building backend systems for AI-driven learning
+- 🏢 Previously at **Stack360**, shipping LLM solutions for document classification & data extraction
 - 🎓 CS graduate of **FAST NUCES, Lahore**
-- 🧠 Interested in AI agents, tool-calling, RAG, multi-tenant SaaS, and scalable async architectures
-- 📫 Reach me at **ahmedwaqar2002@gmail.com**
+- 🧠 Into AI agents, tool-calling, RAG, multi-tenant SaaS & scalable async architectures
+- ⚡ Fun fact: I'd rather write a Celery task than wait for anything synchronously
+
+</td>
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/coding-gif.gif" width="100%" alt="coding" />
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| Associate Software Engineer (Python, Django, AI) | **Folium AI** | Feb 2026 – Present |
-| Associate Software Engineer (Python, Django, AI) | **Stack360** | Jan 2025 – Feb 2026 |
+<table>
+  <tr>
+    <th align="left">Role</th>
+    <th align="left">Company</th>
+    <th align="left">Duration</th>
+  </tr>
+  <tr>
+    <td>🟢 <b>Associate Software Engineer</b><br/><sub>Python · Django · AI</sub></td>
+    <td><b>Folium AI</b></td>
+    <td><img src="https://img.shields.io/badge/Feb%202026-Present-2ea44f?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>⚪ <b>Associate Software Engineer</b><br/><sub>Python · Django · AI</sub></td>
+    <td><b>Stack360</b></td>
+    <td><img src="https://img.shields.io/badge/Jan%202025-Feb%202026-555555?style=flat-square" /></td>
+  </tr>
+</table>
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-### 📑 Altertia Compliance
-**Multi-tenant compliance automation platform for enterprises**
-`Python` `Django` `PostgreSQL` `Celery` `Redis` `LangChain` `Ollama` `Django Tenants`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- LangChain agents that classify compliance documents (CFDI, IMSS, SAT, Infonavit), extract key fields, and return structured JSON
-- Secure uploads, automated validation, and organized storage for Mexican compliance workflows (CFDI invoices, IMSS reports, SUA files)
-- Asynchronous processing of large document batches with Celery + Redis
-- Auditable storage and retrieval for transparent compliance reporting
+### 📑 Altertia Compliance
+<sub><i>Multi-tenant compliance automation for enterprises</i></sub>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+- 🤖 LangChain agents classify CFDI, IMSS, SAT & Infonavit docs and return structured JSON
+- 🔐 Secure uploads, validation & organized storage for Mexican compliance workflows
+- ⚙️ Large batches processed async with Celery + Redis
+- 📋 Auditable storage for transparent reporting
+
+</td>
+<td width="33%" valign="top">
 
 ### 💰 MoneyTalks (WealthWise)
-**Scalable multi-tenant SaaS learning platform**
-`Python` `Django Tenants` `LangChain` `LangGraph` `Qdrant` `RAG`
+<sub><i>Scalable multi-tenant SaaS learning platform</i></sub>
 
-- Architected strict data isolation across organizational hierarchies with Django Tenants
-- DB-powered RAG: LangChain agents with tool-calling that query PostgreSQL in natural language
-- RBAC for students, teachers, and admin staff
-- Modular lesson engine with progress tracking, reporting dashboards, and student portfolios
+<img src="https://img.shields.io/badge/Django_Tenants-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+
+- 🏛️ Strict data isolation across org hierarchies with Django Tenants
+- 🗣️ DB-powered RAG — agents query PostgreSQL in natural language
+- 👥 RBAC for students, teachers & admins
+- 📈 Modular lesson engine, progress tracking, dashboards & portfolios
+
+</td>
+<td width="33%" valign="top">
 
 ### ⚖️ E-Wakeel
-**LegalTech platform connecting clients, advocates, and administrators**
-`Python` `Django` `React.js` `PostgreSQL` `WebSockets` `Gemini`
+<sub><i>LegalTech platform for clients, advocates & admins</i></sub>
 
-- Real-time advocate–client messaging over WebSockets
-- Gemini-powered chatbot for legal queries
-- Role-based dashboards, secure document sharing, and automated court hearing alerts
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+
+- 💬 Real-time advocate–client chat over WebSockets
+- 🤖 Gemini-powered chatbot for legal queries
+- 📂 Role-based dashboards & secure document sharing
+- ⏰ Automated court hearing alerts
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cs,cpp,c&theme=dark" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<p align="center"><b>Frameworks & Libraries</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,dotnet,react&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-**Frameworks & Libraries**
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center"><b>DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,postman&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+</p>
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**AI & LLM Engineering**
-
-`RAG` · `AI Agents & Tool-Calling` · `LLM Orchestration` · `Human-in-the-Loop Workflows` · `Structured Outputs & Schema Enforcement` · `LLM Guardrails & Safety` · `Embeddings & Semantic Search` · `Vector Databases` · `LLM Streaming & Batching`
+<p align="center"><b>🧠 AI & LLM Engineering</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents_%26_Tool--Calling-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Human--in--the--Loop-9370DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-7B68EE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Guardrails_%26_Safety-483D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings_%26_Semantic_Search-8B008B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Databases-9932CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streaming_%26_Batching-BA55D3?style=flat-square" />
+</p>
 
 ---
 
+<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="90%" />
 </p>
 
 <p align="center">
@@ -113,6 +186,30 @@ I'm a backend engineer from **Lahore, Pakistan** who builds production-ready web
   <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmadwaqar17&theme=tokyonight&hide_border=true&background=1A1B27" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadwaqar17&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<!-- ===================== SNAKE ===================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadwaqar17/ahmadwaqar17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadwaqar17/ahmadwaqar17/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ahmadwaqar17/ahmadwaqar17/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 ---
 
-<p align="center"><i>⭐ Always happy to talk about backend systems, LLM agents, and RAG — feel free to reach out!</i></p>
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A9FEF7&center=true&vCenter=true&width=700&lines=%E2%AD%90+Always+happy+to+talk+backend+systems%2C+LLM+agents+%26+RAG;Feel+free+to+reach+out+%E2%80%94+let's+build+something!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</p>
