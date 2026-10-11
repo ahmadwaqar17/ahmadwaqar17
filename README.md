@@ -1,11 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ahmad%20Waqar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI%2FLLM%20Systems&descSize=18&descAlignY=58" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Ahmad+Waqar" alt="Ahmad Waqar" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=99999&color=36BCF7&center=true&vCenter=true&repeat=false&width=700&height=30&lines=Software+Engineer+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+AI%2FLLM+Systems" alt="Software Engineer" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <p align="center">
   <a href="https://github.com/ahmadwaqar17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Ahmad+Waqar;Backend+Engineer+%C2%B7+Python+%26+Django;Building+LLM+Agents+%26+RAG+Pipelines;Multi-tenant+SaaS+%C2%B7+Async+Architectures;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Ahmad+Waqar;Software+Engineer+%C2%B7+Python+%26+Django;Building+LLM+Agents+%26+RAG+Pipelines;Multi-tenant+SaaS+%C2%B7+Async+Architectures;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,10 +17,6 @@
   <a href="https://github.com/ahmadwaqar17"><img src="https://img.shields.io/badge/GitHub-ahmadwaqar17-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:ahmedwaqar2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://port-folio-git-main-rareaestheticsatbusiness-gmailcoms-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadwaqar17&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-
 
 </td>
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/coding-gif.gif" width="100%" alt="coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
 </td>
 </tr>
 </table>
@@ -55,12 +55,12 @@ I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-
     <th align="left">Duration</th>
   </tr>
   <tr>
-    <td>🟢 <b>Associate Software Engineer</b><br/><sub>Python · Django · AI</sub></td>
+    <td>🟢 <b>Associate Software Engineer</b></td>
     <td><b>Folium AI</b></td>
     <td><img src="https://img.shields.io/badge/Feb%202026-Present-2ea44f?style=flat-square" /></td>
   </tr>
   <tr>
-    <td>⚪ <b>Associate Software Engineer</b><br/><sub>Python · Django · AI</sub></td>
+    <td>⚪ <b>Associate Software Engineer</b></td>
     <td><b>Stack360</b></td>
     <td><img src="https://img.shields.io/badge/Jan%202025-Feb%202026-555555?style=flat-square" /></td>
   </tr>
@@ -210,6 +210,4 @@ I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A9FEF7&center=true&vCenter=true&width=700&lines=%E2%AD%90+Always+happy+to+talk+backend+systems%2C+LLM+agents+%26+RAG;Feel+free+to+reach+out+%E2%80%94+let's+build+something!" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
