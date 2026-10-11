@@ -188,10 +188,6 @@ I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-
   <img src="https://streak-stats.demolab.com?user=ahmadwaqar17&theme=tokyonight&hide_border=true&background=1A1B27" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadwaqar17&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
 <!-- ===================== 3D CONTRIBUTIONS ===================== -->
 <p align="center">
   <picture>
