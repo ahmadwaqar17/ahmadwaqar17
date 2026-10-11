@@ -34,8 +34,6 @@ I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-
 - 🏢 Previously at **Stack360**, shipping LLM solutions for document classification & data extraction
 - 🎓 CS graduate of **FAST NUCES, Lahore**
 - 🧠 Into AI agents, tool-calling, RAG, multi-tenant SaaS & scalable async architectures
-- ⚡ Fun fact: I'd rather write a Celery task than wait for anything synchronously
-
 </td>
 <td width="40%" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
@@ -194,12 +192,12 @@ I'm a backend engineer from **Lahore, Pakistan** 🇵🇰 who builds production-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadwaqar17&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
-<!-- ===================== SNAKE ===================== -->
+<!-- ===================== 3D CONTRIBUTIONS ===================== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadwaqar17/ahmadwaqar17/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadwaqar17/ahmadwaqar17/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/ahmadwaqar17/ahmadwaqar17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img alt="3D contribution skyline" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </p>
 
